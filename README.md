@@ -32,10 +32,10 @@ I’m currently learning how to build modern, user-friendly web interfaces and i
 - Working with external APIs
 - Application state management
 ## Links
-[Frontend Mentor] (https://www.frontendmentor.io/profile/Alla1965)
-[LinkedIn] (https://www.linkedin.com/in/alla-savranska/?locale=en)
+[Frontend Mentor](https://www.frontendmentor.io/profile/Alla1965)
+[LinkedIn](https://www.linkedin.com/in/alla-savranska/?locale=en)
 [GitHub](https://github.com/Alla1965)
-📫 How to Reach Me
+## How to Reach Me
 savranskaya-alla@ukr.net
 
 
